@@ -9,6 +9,9 @@ public class TestClass {
 
         System.out.println("First line in branch");
 
+
+        System.out.println("Test rebase");
+
     }
 
 }
