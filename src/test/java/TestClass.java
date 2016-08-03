@@ -10,7 +10,7 @@ public class TestClass {
         System.out.println("First line in branch");
 
 
-        System.out.println("gldfgk jhdfklj hkljdhdkj k");
+        System.out.println("Normal line of code ");
 
     }
 
